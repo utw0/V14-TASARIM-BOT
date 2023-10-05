@@ -1,6 +1,6 @@
 # V14 TASARIM BOT
-
-
+Discord: luhux(341592492224806914)
+https://discord.gg/luppux
 # Sistemler:
 
 ```
